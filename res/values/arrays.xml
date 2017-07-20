@@ -1,0 +1,10 @@
+<!-- Περιεχόμενα της λίστας μας -->
+<resources>
+	<string-array name="items1">  
+    	<item>kilometer</item>      
+    	<item>meter</item>
+    	<item>centimeter</item>
+    	<item>inch</item>
+    	<item>mile</item>
+	</string-array>
+</resources>

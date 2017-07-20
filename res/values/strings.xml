@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MeterConverter</string>
+    <string name="label_from">From:</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_value">Value</string>
+    <string name="label_result">Result</string>
+    <string name="label_to">To:</string>
+    <string name="button_text">Convert</string>
+</resources>
